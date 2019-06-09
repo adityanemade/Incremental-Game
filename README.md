@@ -1,4 +1,4 @@
-# Incremental Game Starter
+# Incremental Game
 
 In this game, a player performs a simple action by clicking the "slaps" button, which in turn rewards the player with a unit of currency. The player may spend their currency to purchase generators that allow the player to earn currency faster or automatically, without needing to perform the initial action.
 
