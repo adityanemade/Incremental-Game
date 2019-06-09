@@ -1,16 +1,10 @@
 # Incremental Game Starter
 
-Welcome to the incremental game starter kit. In this README, we will go over all
-the information you need to start hacking!
+In this game, a player performs a simple action by clicking the "slaps" button, which in turn rewards the player with a unit of currency. The player may spend their currency to purchase generators that allow the player to earn currency faster or automatically, without needing to perform the initial action.
 
-## Get started
+## Prerequisites
 
-We are using WebpackJS as bundler and BabelJS as transpiler to compile our ES6
-JavaScript code down to browser usable JavaScript code.
-
-```
-npm run build
-```
+Once knowing the folder structure, you will need to install [Node.js](https://nodejs.org/en/).
 
 ## Developing
 
@@ -39,10 +33,6 @@ Before start developing, it's important to know the folder structure:
 ├── test                              --> where test lives under
 └── webpack.config.js                 --> bundler configuration
 ```
-
-### Prerequisites
-
-Once knowing the folder structure, you will need to install [Node.js](https://nodejs.org/en/).
 
 ### Setting up Dev
 
